@@ -1,0 +1,9 @@
+[{ "id": "1",  "nombre": "Intestino Irritable", "precio": "1800", " cantidad": "0", "comentario":"Opciones de recetas para todos"},    
+ {  "id": "2",  "nombre": "Hipertensos", "precio": "1300"," cantidad":"0", "comentario":"Opciones de recetas para todos"},
+ {  "id": "3",  "nombre": "Edicion Dulce"  , "precio": "1000"," cantidad": "0", "comentario":"Opciones de recetas para todos" },
+ {  "id": "4",  "nombre": "Celiacos" , "precio": "1300"," cantidad": "0", "comentario":"Opciones de recetas para todos"},
+ {  "id": "5",  "nombre": "Diabeticos" ,  "precio": "1500" ," cantidad": "0", "comentario":"Opciones de recetas para todos" },
+ {  "id": "6",  "nombre": "Gastritis" , "precio": "1200" ," cantidad": "0", "comentario":"Opciones de recetas para todos" },
+ {  "id": "8",  "nombre": "Corredores Amateurs" , "precio": "1200" ," cantidad": "0", "comentario":"Guias y sugerencias para tus entrenamientos y competencias" }
+    
+  ]

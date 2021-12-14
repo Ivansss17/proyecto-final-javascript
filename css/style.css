@@ -1,0 +1,67 @@
+.form__Comentarios{
+    
+    margin: auto;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    opacity: 95%;
+    width: 350px;
+    height: 450px;
+    
+}
+
+.bkgn{
+    margin-top: 25px;
+    border:2px;
+    box-sizing: border-box; 
+    border-color: black;
+    border-style: solid;
+    background-image:linear-gradient(black,grey,black);
+    color: white;
+    font-family: serif;
+}
+
+.box{
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 200px;
+    color: lavenderblush;
+    margin: auto;
+    
+    border: solid black;
+}
+
+.contenedor{
+    display: flex;
+    
+}
+.box__Libros__bkgn{
+    background-image:url(./fondo\ body.jpg);
+    background-color: grey;
+    padding: 15px;
+    opacity: 95%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 85%;
+    height: auto;
+    justify-content: space-between;
+    margin: auto;
+    box-shadow:  10px 5px 0px black;
+    padding: 15px;
+}
+.btnform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btnForm{
+    width: 350px;
+    background-color: black;
+    color: white;
+}
